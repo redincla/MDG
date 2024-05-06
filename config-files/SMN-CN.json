@@ -1,0 +1,42 @@
+{
+  "SMNSampleCN.input_bams_samples": [
+	"/mnt/raw-data/exomes/Carrier-Screening/BAMs/Batch4/AXZR-65.bam",
+	"/mnt/raw-data/exomes/Carrier-Screening/BAMs/Batch4/AXZR-66.bam",
+	"/mnt/raw-data/exomes/Carrier-Screening/BAMs/Batch4/AXZR-67.bam",
+	"/mnt/raw-data/exomes/Carrier-Screening/BAMs/Batch4/AXZR-68.bam",
+	"/mnt/raw-data/exomes/Carrier-Screening/BAMs/Batch4/AXZR-69.bam",
+	"/mnt/raw-data/exomes/Carrier-Screening/BAMs/Batch4/AXZR-70.bam",
+	"/mnt/raw-data/exomes/Carrier-Screening/BAMs/Batch4/AXZR-71.bam",
+	"/mnt/raw-data/exomes/Carrier-Screening/BAMs/Batch4/AXZR-89.bam",
+	"/mnt/raw-data/exomes/Carrier-Screening/BAMs/Batch4/AXZR-90.bam",
+	"/mnt/raw-data/exomes/Carrier-Screening/BAMs/Batch4/AXZR-91.bam",
+	"/mnt/raw-data/exomes/Carrier-Screening/BAMs/Batch4/AXZR-92.bam",
+	"/mnt/raw-data/exomes/Carrier-Screening/BAMs/Batch4/AXZR-93.bam",
+	"/mnt/raw-data/exomes/Carrier-Screening/BAMs/Batch4/AXZR-94.bam",
+	"/mnt/raw-data/exomes/Carrier-Screening/BAMs/Batch4/AXZR-95.bam",
+	"/mnt/raw-data/exomes/Carrier-Screening/BAMs/Batch4/AXZR-96.bam"
+	],
+  "SMNSampleCN.input_bams_PON": "/mnt/raw-data/exomes/Carrier-Screening/BAMs/Batch4/bam_list_PON",
+  "SMNSampleCN.sample_list": [
+	"AXZR-65",
+	"AXZR-66",
+	"AXZR-67",
+	"AXZR-68",
+	"AXZR-69",
+	"AXZR-70",
+	"AXZR-71",
+	"AXZR-89",
+	"AXZR-90",
+	"AXZR-91",
+	"AXZR-92",
+	"AXZR-93",
+	"AXZR-94",
+	"AXZR-95",
+	"AXZR-96"
+	],
+  "SMNSampleCN.SNP_list": "/mnt/raw-data/exomes/Carrier-Screening/bed/SMN-differentiating-sites-covered-v2_hg38.bed",
+  "SMNSampleCN.output_file_basename_PON": "PON",
+  "SMNSampleCN.SMN_CNplot_Rscript": "/mnt/raw-data/scripts/wdls/tasks/SMN-CN-Kmeans.R",
+  "SMNSampleCN.output_file_basename_samples": "Batch4"
+}
+
